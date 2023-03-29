@@ -1,0 +1,11 @@
+manifest.mf
+transactions.log
+README.md
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+build.xml
+ExamTexts/
